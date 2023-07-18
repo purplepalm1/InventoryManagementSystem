@@ -1,0 +1,366 @@
+commit 44af07c84c182607902ff1602a6cc753099497e1
+Author: Julianna Bernardi <jbernardi@wpi.edu>
+Date:   Wed Dec 14 20:42:28 2022 -0500
+
+    changed header names
+
+commit 6ffbe7a9d28a33c3551fd07a7f9a1110aa047393
+Author: Julianna E Bernardi <jbernardi@mitre.org>
+Date:   Wed Dec 14 18:14:34 2022 -0500
+
+    bug fixes
+
+commit 908fb2ba3f39648f569916116d305d2991b68305
+Author: Julianna E Bernardi <jbernardi@mitre.org>
+Date:   Wed Dec 14 16:19:57 2022 -0500
+
+    Re-added authentication
+
+commit dcfc7a52c869af38463b87e1dd562b3ff1a3e86d
+Author: Ben <bgavrilov@wpi.edu>
+Date:   Wed Dec 14 21:06:36 2022 +0000
+
+    Squashed commit of the following
+    
+    commit 52e8a7d7
+    Author: purplepalm1 <110632274+purplepalm1@users.noreply.github.com>
+    Date: Wed Dec 14 2022 15:20:16 GMT-0500 (Eastern Standard Time)
+    
+        fixed mostexpensive item, now it shows np
+    
+    
+    commit aee8561a
+    Author: purplepalm1 <110632274+purplepalm1@users.noreply.github.com>
+    Date: Wed Dec 14 2022 14:11:41 GMT-0500 (Eastern Standard Time)
+    
+        added missing.js, which is missing items for manager
+    
+    
+    commit bfd790f0
+    Author: purplepalm1 <110632274+purplepalm1@users.noreply.github.com>
+    Date: Wed Dec 14 2022 13:39:27 GMT-0500 (Eastern Standard Time)
+    
+        added mostExpensive item FE, added router, editd corp home (new button)
+    
+    
+    commit 66d51f35
+    Author: purplepalm1 <110632274+purplepalm1@users.noreply.github.com>
+    Date: Wed Dec 14 2022 13:28:04 GMT-0500 (Eastern Standard Time)
+    
+        changed router settings to disable auth while working, installed aws amplify and mui packages
+
+commit b7e5a507cd3e14e746d0e70d506c7a9e54daa1b5
+Author: Julianna Bernardi <jbernardi@wpi.edu>
+Date:   Mon Dec 12 20:59:25 2022 -0500
+
+    First pass at total inventory report frontend
+
+commit 5c7dff16dd75ef96226f100502b095e150734123
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Tue Nov 29 15:53:27 2022 -0500
+
+    added routes to total inventory report and missing items page
+
+commit 4af054b5f01de83e52c41cbe3e440b2135bbfb55
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 28 08:51:13 2022 -0500
+
+    incorporated Julianna's Store.js file and improved the formatting
+
+commit 7734b3c214fe429f355b86f4c6091c24bfe09442
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 22:18:03 2022 -0500
+
+    added front-end handler to invoke fillShelf use case
+
+commit fc3e39575e3be8113cb78a722c9cc5b0d1172399
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 08:55:14 2022 -0500
+
+    fixed routes and user feedback for authentication page
+
+commit 890aaf7a1aa3988d11e2f8ff6e607a216798e468
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Nov 23 20:43:18 2022 -0500
+
+    fixed issue with margin in menulist and data grid
+
+commit 9769e7d8280e7f8a0b6302777fc1b069a93c2e26
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Nov 23 20:09:30 2022 -0500
+
+    replaced all browser alert with nice custom success and error alert components
+
+commit 03391f357de90eb8b4017b2c98bbc5bc9d52b55f
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 21 22:52:17 2022 -0500
+
+    replaced a few browser alert with custom AlertError component
+
+commit 711bbabf1c5854b0eaef7247be877674e1d87cce
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 21 20:11:00 2022 -0500
+
+    added AlertError component
+
+commit 79ea9daf906e261401bcbc858518aa8d6726cccf
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 21 13:46:11 2022 -0500
+
+    added store Inventory report page
+
+commit 288e18b72ff6b1ebca349b104ae4dd0fd5287d5b
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sun Nov 20 18:09:09 2022 -0500
+
+    added total inventory page
+
+commit e18c7aa732ad78423691dd714213e2932b34f972
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Thu Nov 17 15:33:18 2022 -0500
+
+    edited front-end for showing overStock, missing item, customer view items in shelf
+
+commit f94c93fbd12c4d52b8d288e51aeacccf42c74c86
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Nov 16 14:00:30 2022 -0500
+
+    added functionality to persist a state even when a page refreshes
+
+commit b91b6b086174ec7a507a1272f1fe274807e284d7
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Nov 16 10:43:49 2022 -0500
+
+    fixed frontend protected routes and added 403 page
+
+commit fa25265a46b11f1b0d855ec275c3abdf53cf17ae
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 14 23:16:00 2022 -0500
+
+    added LoadingButton and mics UI reorganization
+
+commit 233f89b22098887db48907fc70f1b8ae5cd6fa6a
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 14 21:21:31 2022 -0500
+
+    refactor search stores by distance and item into two separate components
+
+commit f5c45a73f5d2db88fc9aef77e631366b319a5594
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sun Nov 13 22:56:18 2022 -0500
+
+    implemented front-end for customer landing page
+
+commit 4f6a79eed01555e3b9035423447eb11157edd666
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 12 21:26:36 2022 -0500
+
+    mics changes
+
+commit 82d2dc8b1528df48797e3f2570e5d6dce1995268
+Merge: 1fc4153 bce5cb6
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Fri Nov 11 15:30:39 2022 -0500
+
+    merge
+
+commit bce5cb6b19ec71d94ddf0f5771db2839b0eff44b
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Fri Nov 11 15:23:12 2022 -0500
+
+    brought back the AppBar and added text field to input shipment json
+
+commit 69906505e6d065a2dfcab5163923097d466ec994
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Tue Nov 8 09:30:25 2022 -0500
+
+    mics changes
+
+commit 9715cd2820719b3259b17a0b4acd865bdadd550e
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Tue Nov 8 01:16:16 2022 -0500
+
+    misc changes
+
+commit ead7d563dd206414ff369bac99c11607db02c7d9
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 7 21:19:24 2022 -0500
+
+    add link to manager home from corporate, added process shipment
+
+commit 1fc4153e797768115de5488b9fd02b9660228490
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 7 04:33:45 2022 -0500
+
+    adding useContext
+
+commit 013d1b2f627b68f4dcba8735ad0210be0c475cf5
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Nov 7 03:48:28 2022 -0500
+
+    bring back authentication pages and custom app bar
+
+commit 01a9c2758e615291fbfe210a0add163ccba4665f
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sun Nov 6 20:38:40 2022 -0500
+
+    mount the view-corporate-items components to the create item page
+
+commit 96f4e68d7a96f13c972afb768de58bed7bf035a9
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sun Nov 6 15:24:58 2022 -0500
+
+    created frontend for inventory usecase
+
+commit 354d8d7ceca44d1f19d34fd6e2c7fbbfa61e335d
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 5 20:16:24 2022 -0400
+
+    fully integrated with B/E for showItems, availableManagers, createStores component
+
+commit b554cc4c74420ead6b18cdd5bfc56dbb61a96a25
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 5 19:27:45 2022 -0400
+
+    added storeCreateAlternative page for front-end
+
+commit a3de53806cc15997f0de51977976e6c1427ffb63
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Fri Nov 4 12:29:27 2022 -0400
+
+    pairprogram with Ben to fix the request error in createItem
+
+commit fedce1d61a082d2fb0de39ba3147bee5c057a38b
+Author: purplepalm1 <110632274+purplepalm1@users.noreply.github.com>
+Date:   Fri Nov 4 11:45:15 2022 -0400
+
+    added nav bar for CreateItem and linked page to tab
+
+commit 9e85924edb83bb5a8772f5d867118dbf648f4212
+Merge: daa815e 5146080
+Author: purplepalm1 <110632274+purplepalm1@users.noreply.github.com>
+Date:   Fri Nov 4 11:27:04 2022 -0400
+
+    transferred createItem into new file under corporate
+
+commit daa815e84e02e1dbdae4962f0795eca02d88262c
+Author: purplepalm1 <110632274+purplepalm1@users.noreply.github.com>
+Date:   Fri Nov 4 11:20:24 2022 -0400
+
+    createItem Front end, missing items page front end
+
+commit 51460805e4bfabb65829d304dbffb71d00e93a69
+Merge: 7ce31ce 9f96d01
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Thu Nov 3 21:39:50 2022 -0400
+
+    Merge branch 'mh_noauth_frontend' of https://git-codecommit.us-east-1.amazonaws.com/v1/repos/Groceries_Store_IMS_project into mh_noauth_frontend
+
+commit 7ce31ce63b41359b465b39913b1a4d99e488629c
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Thu Nov 3 21:38:42 2022 -0400
+
+    HEAD
+
+commit 9f96d017808b4f1d908b8562938683103be8efeb
+Author: Julianna <jbernardi@wpi.edu>
+Date:   Wed Nov 2 22:17:19 2022 -0400
+
+    added url and fixed some styling
+
+commit 042fcf24bdd5d2e97a78a8b3e5dbd5be46d61be5
+Author: Julianna <jbernardi@wpi.edu>
+Date:   Wed Nov 2 15:52:31 2022 -0400
+
+    Added some more capabilities to create store
+
+commit fb07fb39323b6f3f85175025cfc65a9b2c8d3a6f
+Merge: 725527b f0051bc
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Tue Nov 1 20:01:38 2022 -0400
+
+    Merge branch 'mh_noauth_frontend' of https://git-codecommit.us-east-1.amazonaws.com/v1/repos/Groceries_Store_IMS_project into mh_noauth_frontend
+
+commit 725527b1a2d50e81f70b63b91559750f471bd1ee
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Tue Nov 1 00:07:55 2022 -0400
+
+    added a fully functional frontend for process shipment usecase
+
+commit f0051bcb1e1030bd45729e3922fdd2e5baa9771a
+Author: Julianna <jbernardi@wpi.edu>
+Date:   Mon Oct 31 20:10:40 2022 -0400
+
+    Added first iteration of create store form
+
+commit 94c06ca20bef6a207e48e26b843ecdb8ecc95beb
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Oct 26 03:25:34 2022 -0400
+
+    added the temporary navbar to all pages associated with 5 required use cases
+
+commit ad1b91cc49babc2c357e800bcf545027d7e96b2e
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Oct 26 03:15:34 2022 -0400
+
+    created a branch without enforcing authentication and added a navBar to quickly navigate among 5 use cases
+
+commit 9c910d250113049d179ce0300b8f5b79de8287de
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Oct 24 06:37:12 2022 -0400
+
+    fix navigation path from manager homepage to more detailed show pages
+
+commit 424eec33edf35e6b08b40d467193991d0c141f64
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Oct 24 05:59:15 2022 -0400
+
+    add a README.md file from the root directory detailing instructions on how to set up and run json-server
+
+commit 4c20b70ce5869988b51d9d7f6d10533a263c9b6d
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Oct 24 03:56:41 2022 -0400
+
+    fully implement customer's 'View A Store' page with static Purchase buttons
+
+commit 41f430df1d86a3a3ce7e7be3e3da5880c6b09eb5
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sun Oct 23 22:20:13 2022 -0400
+
+    add the mock-data folder
+
+commit 1d0ce557aa61bcf197b9a9ee8592b5a2ddbc355f
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Oct 22 21:13:58 2022 -0400
+
+    add routes and create blank templates for all storyboards
+
+commit 18cb33e813e9946effdc09cfd2b4eaee247093ae
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Oct 19 14:48:56 2022 -0400
+
+    add mock-data/db.json for front-end fetching and development
+
+commit 5e71a15e7abc6b8d99282fd0b4b7c8d5a99967e3
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Oct 19 08:09:38 2022 -0400
+
+    create dynamic view stores button in the customer landing page
+
+commit d3f6a5d86f1decf895372b83386bdb09d1942f25
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Oct 17 12:00:28 2022 -0400
+
+    add the search UI search bar for customer page
+
+commit 3fc915b095cd66439ed2aae4d0fbac1acb225eeb
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Mon Oct 17 01:05:14 2022 -0400
+
+    add react-frontend
+
+commit 2b5d5b5a33e0617bad9aa91cb3c083b184a27be5
+Author: EC2 Default User <ec2-user@ip-172-31-8-239.ec2.internal>
+Date:   Mon Oct 17 04:01:12 2022 +0000
+
+    mh test pushing from master

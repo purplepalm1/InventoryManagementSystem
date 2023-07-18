@@ -1,0 +1,133 @@
+commit d1c57c11f7b1891dfd1be702a73b7841fd3b6773
+Author: EC2 Default User <ec2-user@ip-172-31-3-197.ec2.internal>
+Date:   Wed Dec 14 22:02:21 2022 +0000
+
+    bug fix for total inventroy
+
+commit 0f2fcab6f4478d274f02ffbb2f7025c36711a659
+Author: EC2 Default User <ec2-user@ip-172-31-3-197.ec2.internal>
+Date:   Tue Dec 13 23:01:05 2022 +0000
+
+    added missing items lambda function
+
+commit 3fbb6115d097328409d7a37ab5ea92ed432d5ae6
+Author: EC2 Default User <ec2-user@ip-172-31-3-197.ec2.internal>
+Date:   Tue Dec 13 00:36:16 2022 +0000
+
+    total inventory report lambda function
+
+commit 70023cb171f3e5bd030a0d2831f2ba890ba23f51
+Merge: d0502f1 5ab3077
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 23:54:19 2022 +0000
+
+    resolve conflict with Julianna's commit
+
+commit d0502f1e8219ae295eca98abb378992710f06bd3
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 23:49:18 2022 +0000
+
+    added searchByText lambda function
+
+commit 8de23f65f225f4065d6f120f0c326de239bce178
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 23:47:58 2022 +0000
+
+    added fillShelf lambda function
+
+commit 87f2aee7a903ade843ad262e73e5d6316f5f693b
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 23:44:40 2022 +0000
+
+    added deleteStore lambda - a backup solution for storeRemover
+
+commit f82181acf7f38ed01e42dbda8eec9a1642fcd08c
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 23:43:22 2022 +0000
+
+    added customerViewStore lambda function
+
+commit 2d0a3eccf169256c96e48cfeb230a63f97e69a1c
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 23:42:05 2022 +0000
+
+    added corporateStoreInventory lambda function
+
+commit 510e5aea99cc8c624d83694e2c48cfd2219682d7
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 26 23:39:10 2022 +0000
+
+    added buyItem lambda function
+
+commit 5ab3077dc8b0faf16e0563ee300a1421266ddd75
+Author: EC2 Default User <ec2-user@ip-172-31-3-197.ec2.internal>
+Date:   Sat Nov 26 19:09:57 2022 +0000
+
+    added total valuation
+
+commit 5adc64b35ad6c78c917c6418206a7abf6becb955
+Author: EC2 Default User <ec2-user@ip-172-31-3-197.ec2.internal>
+Date:   Sat Nov 26 18:56:12 2022 +0000
+
+    working version of corporateInventoryReportGenerator lambda function
+
+commit 5e24d32f17be7c33510dae04cb6bde665ac8e5ff
+Author: Julianna E Bernardi <jbernardi@mitre.org>
+Date:   Sun Nov 20 11:55:27 2022 -0500
+
+    fixed merge conflict
+
+commit cadd83fbe6e17744a9cb979fbe35a73cae417715
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 12 20:40:16 2022 +0000
+
+    fix bugs for process shipment and added fill shelf lambda function
+
+commit 228c9f749d339df4e3af87ac2ef2e6f7d93eaef9
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sun Nov 6 20:31:58 2022 +0000
+
+    added lambda function for inventoryReportGenerator
+
+commit 7c090dec3a3dd95f7f611f21532de76e3be3aeee
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 5 23:25:33 2022 +0000
+
+    added storeCreatorAlternative lambda - an alternative solution
+
+commit a7ed21449b1c8954f234c0380af5751fd4ef57e3
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Sat Nov 5 18:44:36 2022 +0000
+
+    Added 3 lambdas itemsGetter, storesGetter, itemLocationAssigner
+
+commit 2e187ffe46bee866d8f7a62f6c0fb94d14289010
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Nov 2 20:08:53 2022 +0000
+
+    created a blank template for storeCreator
+
+commit f08f7ea7134aeeee2b742145d295ddaabd7bca88
+Merge: 2812eff af0d44f
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Nov 2 13:55:21 2022 +0000
+
+    add itemCreate 2nd attempt
+
+commit 2812eff506476af2f098a2c345ac420cbe5e195f
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Wed Nov 2 13:49:09 2022 +0000
+
+    add itemCreator
+
+commit af0d44f52535495efa40bd000845ff0025ed9302
+Author: MinhHang <mgradetsky@wpi.edu>
+Date:   Tue Nov 1 02:46:40 2022 +0000
+
+    create the first stab of shipmentProcessor
+
+commit 2b5d5b5a33e0617bad9aa91cb3c083b184a27be5
+Author: EC2 Default User <ec2-user@ip-172-31-8-239.ec2.internal>
+Date:   Mon Oct 17 04:01:12 2022 +0000
+
+    mh test pushing from master

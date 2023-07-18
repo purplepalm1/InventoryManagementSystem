@@ -1,0 +1,3 @@
+{
+    "body" : "{ \"SKU\" : \"ABC12345\", \"name\" : \"bananas\", \"description\" : \"test bananas from xyz\", \"price\" : \"5\", \"maxQuantity\" : \"50\"}"
+}
